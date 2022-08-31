@@ -30,9 +30,6 @@
                 <sonar.host.url>
                     http://localhost/:9000
                 </sonar.host.url>
-                <sonar.login>
-                    squ_eb1bd6daa0a2c9af503f668923d36069e395a658
-                </sonar.login>
                 <sonar.projectKey>
                     AutomatizacionWikipediajenkin
                 </sonar.projectKey>
@@ -124,6 +121,11 @@
                     <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.sonarsource.scanner.maven</groupId>
+                <artifactId>sonar-maven-plugin</artifactId>
+                <version>3.7.0.1746</version>
             </plugin>
             <plugin>
                 <groupId>net.serenity-bdd.maven.plugins</groupId>
