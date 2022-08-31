@@ -22,7 +22,7 @@
     </properties>
     <profiles>
         <profile>
-            <id>sonar</id>
+            <id>SonarServer</id>
             <activation>
                 <activeByDefault>true</activeByDefault>
             </activation>
