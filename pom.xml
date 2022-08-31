@@ -30,6 +30,12 @@
                 <sonar.host.url>
                     http://localhost/:9000
                 </sonar.host.url>
+                <sonar.login>
+                    squ_eb1bd6daa0a2c9af503f668923d36069e395a658
+                </sonar.login>
+                <sonar.projectKey>
+                    AutomatizacionWikipediajenkin
+                </sonar.projectKey>
             </properties>
         </profile>
     </profiles>
