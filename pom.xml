@@ -32,7 +32,7 @@
                     http://localhost:9000/
                 </sonar.host.url>
                 <sonar.projectKey>
-                    AutomatizacionWikipediajenkins
+                    AutomatizacionWikipediaWeb
                 </sonar.projectKey>
             </properties>
         </profile>
